@@ -1,2 +1,5 @@
 # Barcode
-Part of Project 3 from my Program Design class during the Spring 2017 semester.
+
+This program finds the edges of light and dark regions of an 8-bit binary input pattern.
+
+For a detailed description of this project, please refer to Project 3.pdf
